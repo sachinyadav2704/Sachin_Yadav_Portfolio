@@ -1,0 +1,338 @@
+{
+   "en": {
+      "translation": {
+         "navbar": {
+            "home": "Home",
+            "about": "About",
+            "projects": "Projects",
+            "contact": "Contact",
+            "skills": "Skills",
+            "education": "Education"
+         },
+         "home": {
+            "greeting": "Hi, I'm",
+            "name": "Sachin Yadav",
+            "description": "A MERN Developer with expertise in building scalable and responsive web applications.",
+            "getInTouch": "Get in Touch"
+         },
+         "about": {
+            "title": "About Me",
+            "description": "Dedicated and performance-driven MERN Developer with over 4 years of professional experience in full-stack development. Expert in building scalable and responsive web applications using JavaScript, React.js, Node.js, and MongoDB. Adept at integrating complex APIs, implementing reusable components, and collaborating within agile environments to deliver high-quality solutions. Passionate about leveraging innovative technologies to enhance user experiences and drive business impact."
+         },
+         "projects": {
+            "title": "Projects",
+            "listProjects": [
+               {
+                  "title": "JioFit",
+                  "description": "A comprehensive full-stack application for managing fitness programs,user data, and analytics across Jio platforms.",
+                  "role": "Developed both frontend and backend, leveraging React, TypeScript, Node.js, Express, and MongoDB to ensure robust functionality and scalability.",
+                  "keyFeatures": "Integrated OAuth2.0 authentication for secure access, real-time smartwatch data synchronization, and social sharing to boost user engagement.",
+                  "tech": "React.js, TypeScript, Node.js, Express, MongoDB",
+                  "url": "https://play.google.com/store/apps/details?id=com.jio.jiofit&pcampaignid=web_share"
+               },
+               {
+                  "title": "Jio Reels",
+                  "description": "A Server-Side Ad Insertion (SSAI) project enabling direct API interactions from the frontend for efficient ad management.",
+                  "role": "Architected and built primary modules (Landing Page, Channel, Transcoding) using React and Redux, focusing on seamless API integration for optimized data handling.",
+                  "keyFeatures": "",
+                  "tech": "React.js, Redux, API Integration, JavaScript",
+                  "url": "https://portal-g.instreamo.jio.com/"
+               },
+               {
+                  "title": "Jio Unified Ads",
+                  "description": "A scalable platform enabling Jio users to create and manage ad campaigns seamlessly integrated across platforms like MyJio and Jio TV.",
+                  "role": "Architected and developed core modules using React and Redux, implementing both class-based and functional components for enhanced performance and flexibility.",
+                  "keyFeatures": "",
+                  "tech": "React.js, Redux, JavaScript, HTML, CSS",
+                  "url": "https://jioads.jio.com/"
+               }
+            ]
+         },
+         "contactMe": {
+            "title": "Contact Me",
+            "sendMsg": "Send Message"
+         },
+         "footer": "© 2025 Sachin Yadav. All rights reserved.",
+         "name": "Sachin Yadav",
+         "title": "MERN Developer",
+         "summary": "Dedicated and performance-driven MERN Developer with over 4 years of professional experience in full-stack development. Expert in building scalable and responsive web applications using JavaScript, React.js, Node.js, and MongoDB. Adept at integrating complex APIs, implementing reusable components, and collaborating within agile environments to deliver high-quality solutions.",
+         "education": {
+            "title": "Education",
+            "btech": {
+               "institution": "SRM Institute of Science and Technology, Delhi NCR",
+               "degree": "Bachelor of Technology",
+               "duration": "Jul 2016 - Jun 2020"
+            },
+            "higher_secondary": {
+               "institution": "SKD Academy, Rajajipuram",
+               "duration": "Apr 2014 - Mar 2015"
+            },
+            "secondary_school": {
+               "institution": "SKD Academy, Rajajipuram",
+               "duration": "Apr 2012 - Mar 2013"
+            }
+         },
+         "skills": {
+            "title": "Skills",
+            "progLang": "Programming Language",
+            "tools": "Tools",
+            "fe": "Frontend",
+            "be": "Backend"
+         },
+         "technical_skills": ["React.js", "Redux", "JavaScript", "HTML", "CSS", "Node.js", "MongoDB"],
+         "soft_skills": ["Problem-solving", "Communication", "Time management"],
+         "languages": ["English", "Hindi"]
+      }
+   },
+   "hi": {
+      "translation": {
+         "navbar": {
+            "home": "होम",
+            "about": "मेरे बारे में",
+            "projects": "प्रोजेक्ट्स",
+            "contact": "संपर्क करें",
+            "skills": "कौशल",
+            "education": "शिक्षा"
+         },
+         "home": {
+            "greeting": "नमस्ते, मैं हूँ",
+            "name": "सचिन यादव",
+            "description": "एक MERN डेवलपर, जो स्केलेबल और उत्तरदायी वेब एप्लिकेशन बनाने में विशेषज्ञ है।",
+            "getInTouch": "संपर्क करें"
+         },
+         "about": {
+            "title": "मेरे बारे में",
+            "description": "स्केलेबल और उत्तरदायी वेब एप्लिकेशन बनाने में 4 से अधिक वर्षों के अनुभव के साथ एक समर्पित और प्रदर्शन-चालित MERN डेवलपर। जावास्क्रिप्ट, React.js, Node.js, और MongoDB में विशेषज्ञता। उच्च गुणवत्ता वाले समाधानों को वितरित करने के लिए जटिल एपीआई को एकीकृत करने, पुन: प्रयोज्य घटकों को लागू करने, और चुस्त वातावरण में सहयोग करने में कुशल।"
+         },
+         "projects": {
+            "title": "प्रोजेक्ट्स",
+            "listProjects": [
+               {
+                  "title": "जियोफिट",
+                  "description": "जियो प्लेटफॉर्म्स पर फिटनेस कार्यक्रमों, उपयोगकर्ता डेटा, और एनालिटिक्स का प्रबंधन करने के लिए एक व्यापक पूर्ण-स्टैक एप्लिकेशन।",
+                  "role": "React, TypeScript, Node.js, Express, और MongoDB का उपयोग करके फ्रंटएंड और बैकएंड दोनों विकसित किए।",
+                  "keyFeatures": "सुरक्षित पहुँच के लिए OAuth2.0 प्रमाणीकरण, रीयल-टाइम स्मार्टवॉच डेटा सिंक्रोनाइज़ेशन, और सामाजिक साझाकरण को एकीकृत किया।",
+                  "tech": "React.js, TypeScript, Node.js, Express, MongoDB",
+                  "url": "https://play.google.com/store/apps/details?id=com.jio.jiofit&pcampaignid=web_share"
+               },
+               {
+                  "title": "जियो रील्स",
+                  "description": "सर्वर-साइड विज्ञापन सम्मिलन (SSAI) प्रोजेक्ट जो प्रभावी विज्ञापन प्रबंधन के लिए फ्रंटएंड से सीधे API इंटरैक्शन सक्षम करता है।",
+                  "role": "React और Redux का उपयोग करके मुख्य मॉड्यूल बनाए।",
+                  "tech": "React.js, Redux, API Integration, JavaScript",
+                  "url": "https://portal-g.instreamo.jio.com/"
+               },
+               {
+                  "title": "जियो यूनिफाइड एड्स",
+                  "description": "एक स्केलेबल प्लेटफ़ॉर्म जो जियो उपयोगकर्ताओं को MyJio और Jio TV जैसी प्लेटफ़ॉर्म्स में आसानी से विज्ञापन अभियान बनाने और प्रबंधित करने की अनुमति देता है।",
+                  "role": "React और Redux का उपयोग करके मुख्य मॉड्यूल विकसित किए।",
+                  "tech": "React.js, Redux, JavaScript, HTML, CSS",
+                  "url": "https://jioads.jio.com/"
+               }
+            ]
+         },
+         "contactMe": {
+            "title": "मुझसे संपर्क करें",
+            "sendMsg": "संदेश भेजें"
+         },
+         "footer": "© 2025 सचिन यादव। सर्वाधिकार सुरक्षित।",
+         "name": "सचिन यादव",
+         "title": "MERN डेवलपर",
+         "summary": "स्केलेबल और उत्तरदायी वेब एप्लिकेशन बनाने में 4 से अधिक वर्षों के अनुभव के साथ एक समर्पित और प्रदर्शन-चालित MERN डेवलपर। जावास्क्रिप्ट, React.js, Node.js, और MongoDB में विशेषज्ञता। उच्च गुणवत्ता वाले समाधानों को वितरित करने के लिए जटिल एपीआई को एकीकृत करने, पुन: प्रयोज्य घटकों को लागू करने, और चुस्त वातावरण में सहयोग करने में कुशल।",
+         "education": {
+            "title": "शिक्षा",
+            "btech": {
+               "institution": "SRM Institute of Science and Technology, दिल्ली NCR",
+               "degree": "बैचलर ऑफ टेक्नोलॉजी",
+               "duration": "जुलाई 2016 - जून 2020"
+            },
+            "higher_secondary": {
+               "institution": "SKD Academy, राजाजीपुरम",
+               "duration": "अप्रैल 2014 - मार्च 2015"
+            },
+            "secondary_school": {
+               "institution": "SKD Academy, राजाजीपुरम",
+               "duration": "अप्रैल 2012 - मार्च 2013"
+            }
+         },
+         "skills": {
+            "title": "कौशल",
+            "progLang": "प्रोग्रामिंग भाषा",
+            "tools": "उपकरण",
+            "fe": "फ्रंटेंड",
+            "be": "बैकेंड"
+         },
+         "technical_skills": ["React.js", "Redux", "JavaScript", "HTML", "CSS", "Node.js", "MongoDB"],
+         "soft_skills": ["समस्या समाधान", "संचार", "समय प्रबंधन"],
+         "languages": ["English", "Hindi"]
+      }
+   },
+
+   "fr": {
+      "translation": {
+         "navbar": {
+            "home": "Accueil",
+            "about": "À propos",
+            "projects": "Projets",
+            "contact": "Contact",
+            "skills": "Compétences",
+            "education": "Éducation"
+         },
+         "home": {
+            "greeting": "Bonjour, je suis",
+            "name": "Sachin Yadav",
+            "description": "Un développeur MERN expert dans la création d'applications web évolutives et réactives.",
+            "getInTouch": "Contactez-moi"
+         },
+         "about": {
+            "title": "À propos de moi",
+            "description": "Développeur MERN dédié avec plus de 4 ans d'expérience professionnelle dans le développement full-stack. Expert en création d'applications web évolutives et réactives utilisant JavaScript, React.js, Node.js, et MongoDB. Capable d'intégrer des API complexes et de collaborer au sein d'environnements agiles pour fournir des solutions de haute qualité."
+         },
+         "projects": {
+            "title": "Projets",
+            "listProjects": [
+               {
+                  "title": "JioFit",
+                  "description": "Une application complète pour la gestion des programmes de fitness et des données utilisateur.",
+                  "role": "Développement frontend et backend avec React, TypeScript, Node.js, Express, et MongoDB.",
+                  "keyFeatures": "Authentification OAuth2.0 pour un accès sécurisé, synchronisation des données de la smartwatch en temps réel, et partage social pour stimuler l'engagement des utilisateurs.",
+                  "tech": "React.js, TypeScript, Node.js, Express, MongoDB",
+                  "url": "https://play.google.com/store/apps/details?id=com.jio.jiofit&pcampaignid=web_share"
+               },
+               {
+                  "title": "Jio Reels",
+                  "description": "Un projet d'insertion d'annonces côté serveur (SSAI) permettant des interactions API directes pour une gestion efficace des annonces.",
+                  "role": "Création des modules principaux (Page d'accueil, Canal, Transcodage) avec React et Redux.",
+                  "tech": "React.js, Redux, API Integration, JavaScript",
+                  "url": "https://portal-g.instreamo.jio.com/"
+               },
+               {
+                  "title": "Jio Unified Ads",
+                  "description": "Une plateforme évolutive permettant aux utilisateurs de Jio de créer et gérer des campagnes publicitaires intégrées dans des plateformes telles que MyJio et Jio TV.",
+                  "role": "Développement des modules principaux avec React et Redux.",
+                  "tech": "React.js, Redux, JavaScript, HTML, CSS",
+                  "url": "https://jioads.jio.com/"
+               }
+            ]
+         },
+         "contactMe": {
+            "title": "Contactez-moi",
+            "sendMsg": "Envoyer un message"
+         },
+         "footer": "© 2025 Sachin Yadav. Tous droits réservés.",
+         "name": "Sachin Yadav",
+         "title": "Développeur MERN",
+         "summary": "Développeur MERN dédié avec plus de 4 ans d'expérience professionnelle dans le développement full-stack. Expert dans la création d'applications web évolutives et réactives utilisant JavaScript, React.js, Node.js, et MongoDB.",
+         "education": {
+            "title": "Éducation",
+            "btech": {
+               "institution": "SRM Institute of Science and Technology, Delhi NCR",
+               "degree": "Baccalauréat en Technologie",
+               "duration": "Juillet 2016 - Juin 2020"
+            },
+            "higher_secondary": {
+               "institution": "SKD Academy, Rajajipuram",
+               "duration": "Avril 2014 - Mars 2015"
+            },
+            "secondary_school": {
+               "institution": "SKD Academy, Rajajipuram",
+               "duration": "Avril 2012 - Mars 2013"
+            }
+         },
+         "skills": {
+            "title": "Compétences",
+            "progLang": "Langage de programmation",
+            "tools": "Outils",
+            "fe": "Frontend",
+            "be": "Backend"
+         },
+         "technical_skills": ["React.js", "Redux", "JavaScript", "HTML", "CSS", "Node.js", "MongoDB"],
+         "soft_skills": ["Résolution de problèmes", "Communication", "Gestion du temps"],
+         "languages": ["English", "Hindi"]
+      }
+   },
+
+   "ar": {
+      "translation": {
+         "navbar": {
+            "home": "الصفحة الرئيسية",
+            "about": "من أنا",
+            "projects": "المشاريع",
+            "contact": "اتصل",
+            "skills": "المهارات",
+            "education": "التعليم"
+         },
+         "home": {
+            "greeting": "مرحبًا، أنا",
+            "name": "ساشين ياداف",
+            "description": "مطور MERN متخصص في بناء تطبيقات الويب القابلة للتطوير والاستجابة.",
+            "getInTouch": "تواصل معي"
+         },
+         "about": {
+            "title": "من أنا",
+            "description": "مطور MERN مكرس مع أكثر من 4 سنوات من الخبرة المهنية. متخصص في بناء تطبيقات الويب باستخدام JavaScript و React.js و Node.js و MongoDB. قادر على دمج APIs معقدة والتعاون ضمن بيئات مرنة لتقديم حلول عالية الجودة."
+         },
+         "projects": {
+            "title": "المشاريع",
+            "listProjects": [
+               {
+                  "title": "جيوفيت",
+                  "description": "تطبيق كامل لإدارة برامج اللياقة البدنية وبيانات المستخدم.",
+                  "role": "تطوير الواجهة الأمامية والخلفية باستخدام React و TypeScript و Node.js و Express و MongoDB.",
+                  "keyFeatures": "مصداقية OAuth2.0 للوصول الآمن، مزامنة البيانات في الوقت الفعلي مع الساعة الذكية، ومشاركة اجتماعية لتحفيز مشاركة المستخدمين.",
+                  "tech": "React.js, TypeScript, Node.js, Express, MongoDB",
+                  "url": "https://play.google.com/store/apps/details?id=com.jio.jiofit&pcampaignid=web_share"
+               },
+               {
+                  "title": "جيو ريلز",
+                  "description": "مشروع إدراج الإعلانات من جانب الخادم (SSAI) الذي يتيح التفاعل المباشر مع API من الواجهة الأمامية لإدارة الإعلانات بكفاءة.",
+                  "role": "إنشاء الوحدات الرئيسية (الصفحة الرئيسية، القناة، التحويل) باستخدام React و Redux.",
+                  "tech": "React.js, Redux, API Integration, JavaScript",
+                  "url": "https://portal-g.instreamo.jio.com/"
+               },
+               {
+                  "title": "إعلانات جيو الموحدة",
+                  "description": "منصة قابلة للتطوير تمكّن مستخدمي جيو من إنشاء وإدارة حملات إعلانات بسهولة عبر منصات مثل MyJio و Jio TV.",
+                  "role": "تطوير الوحدات الأساسية باستخدام React و Redux.",
+                  "tech": "React.js, Redux, JavaScript, HTML, CSS",
+                  "url": "https://jioads.jio.com/"
+               }
+            ]
+         },
+         "contactMe": {
+            "title": "اتصل بي",
+            "sendMsg": "أرسل رسالة"
+         },
+         "footer": "© 2025 ساشين ياداف. جميع الحقوق محفوظة.",
+         "name": "ساشين ياداف",
+         "title": "مطور MERN",
+         "summary": "مطور MERN مكرس مع أكثر من 4 سنوات من الخبرة المهنية في تطوير التطبيقات الكاملة. متخصص في بناء تطبيقات الويب باستخدام JavaScript و React.js و Node.js و MongoDB.",
+         "education": {
+            "title": "التعليم",
+            "btech": {
+               "institution": "معهد SRM للتكنولوجيا والعلوم، دلهي NCR",
+               "degree": "بكالوريوس في التكنولوجيا",
+               "duration": "يوليو 2016 - يونيو 2020"
+            },
+            "higher_secondary": {
+               "institution": "أكاديمية SKD، راجا جي بورام",
+               "duration": "أبريل 2014 - مارس 2015"
+            },
+            "secondary_school": {
+               "institution": "أكاديمية SKD، راجا جي بورام",
+               "duration": "أبريل 2012 - مارس 2013"
+            }
+         },
+         "skills": {
+            "title": "المهارات",
+            "progLang": "لغة البرمجة",
+            "tools": "الأدوات",
+            "fe": "الواجهة الأمامية",
+            "be": "الواجهة الخلفية"
+         },
+         "technical_skills": ["React.js", "Redux", "JavaScript", "HTML", "CSS", "Node.js", "MongoDB"],
+         "soft_skills": ["حل المشكلات", "التواصل", "إدارة الوقت"],
+         "languages": ["English", "Hindi"]
+      }
+   }
+}

@@ -1,0 +1,24 @@
+html,
+#root {
+  background-color: var(--dark-background);
+  color: var(--dark-text);
+}
+
+nav {
+  background-color: var(--dark-background);
+  color: var(--light-text);
+}
+
+.main-container {
+  background-color: var(--light-background);
+}
+
+
+
+.playwrite-at-google-fonts {
+  font-family: "Playwrite AT", serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  color: crimson;
+}
